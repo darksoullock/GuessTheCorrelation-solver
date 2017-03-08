@@ -1,0 +1,9 @@
+c:\users\vasiliy\documents\visual studio 2015\Projects\Correlation\Correlation\bin\Debug\Correlation.exe.config
+c:\users\vasiliy\documents\visual studio 2015\Projects\Correlation\Correlation\bin\Debug\Correlation.exe
+c:\users\vasiliy\documents\visual studio 2015\Projects\Correlation\Correlation\bin\Debug\Correlation.pdb
+c:\users\vasiliy\documents\visual studio 2015\Projects\Correlation\Correlation\obj\Debug\Correlation.csprojResolveAssemblyReference.cache
+c:\users\vasiliy\documents\visual studio 2015\Projects\Correlation\Correlation\obj\Debug\Correlation.Form1.resources
+c:\users\vasiliy\documents\visual studio 2015\Projects\Correlation\Correlation\obj\Debug\Correlation.Properties.Resources.resources
+c:\users\vasiliy\documents\visual studio 2015\Projects\Correlation\Correlation\obj\Debug\Correlation.csproj.GenerateResource.Cache
+c:\users\vasiliy\documents\visual studio 2015\Projects\Correlation\Correlation\obj\Debug\Correlation.exe
+c:\users\vasiliy\documents\visual studio 2015\Projects\Correlation\Correlation\obj\Debug\Correlation.pdb
